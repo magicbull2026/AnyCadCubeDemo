@@ -1,0 +1,11 @@
+## .NET 构建产物
+bin/
+obj/
+
+## Visual Studio / VS Code
+.vs/
+*.user
+*.suo
+
+## 其他
+*.log
