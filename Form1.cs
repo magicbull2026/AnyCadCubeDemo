@@ -1,4 +1,4 @@
-using AnyCAD.Foundation;
+﻿using AnyCAD.Foundation;
 using AnyCAD.Forms;
 
 namespace AnyCadCubeDemo;
