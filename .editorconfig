@@ -1,0 +1,5 @@
+root = true
+
+# AnyCAD 官方 C# 示例统一使用 UTF-8，为避免中文字符乱码，工程内 .cs 统一带 BOM
+[*.cs]
+charset = utf-8-bom
